@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Right now, I'm in my second year of studies. Computer Engineering at KMUTT, Thailand.</p>
+<p align="left">Right now, I'm in my third year of studies. Computer Engineering at KMUTT, Thailand.</p>
 
 ###
 

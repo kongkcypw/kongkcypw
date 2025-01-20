@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I have two years of experience in website development. Although I work both on frontend and the backend, I try to focus more on the backend. I also have experience with Game development and Chatbot.</p>
+<p align="left">I have two years of experience in website development. Although I work on both frontend and the backend, I try to focus more on the backend. I also have experience with Game development (Unity) and Chatbot.</p>
 
 <ul align="left">
   <li>Interested in server architecture, API Development, scalable systems, database, cloud technologies, chatbot.</li>

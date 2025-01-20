@@ -21,6 +21,9 @@
 
 <h2 align="left">Tech Stack</h2>
 <h3>Computer Language</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</p>
 <div align="left">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>

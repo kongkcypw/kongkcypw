@@ -10,8 +10,9 @@
 
 ###
 
-<p align="left"> I have two years of experience in website development. Although I work both on frontend and the backend, I try to focus more on the backend. I also have experience with Game development and Chatbot
-  <br> - Interested in Server architecture, API Development, Scalable systems, Database, Cloud technologies, Chatbot
+<p align="left"> I have two years of experience in website development. Although I work both on frontend and the backend, I try to focus more on the backend. I also have experience with Game development and Chatbot.<br> 
+- Interested in server architecture, API Development, scalable systems, database, cloud technologies, chatbot.
+- I enjoy participating in technology competitions to build impactful projects, and enhance my skills.
 </p>
 
 ###

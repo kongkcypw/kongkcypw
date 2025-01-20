@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Right now, I'm in my third year of studies. Computer Engineering at KMUTT, Thailand.</p>
+<p align="left">I'm a third-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), Thailand.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">📚 I'm currently learning website development. Although I work on the frontend and the backend, I try to focus more on the backend.<br>💻 Interested in Server architecture, APIs, Database, Chatbot</p>
+<p align="left"> I have two years of experience in website development. Although I work both on frontend and the backend, I try to focus more on the backend.
+  <br>💻 I also have experience with Game development and Chatbot
+  <br>💻 Interested in Server architecture, API Development, Scalable systems, Database, Cloud technologies, Chatbot
+</p>
 
 ###
 

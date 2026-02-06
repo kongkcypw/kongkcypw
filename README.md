@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kong</h1>
 
-<p align="left">I'm a third-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), Thailand.</p>
+<p align="left">I'm a fourth-year Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), Thailand.</p>
 
 <h2 align="left">About me</h2>
 
